@@ -1,0 +1,14 @@
+{
+  "name": "jbr-issue-minimum-reproducable-case",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "jasmine-browser-runner": "^3.0.0",
+    "jasmine-core": "^5.10.0"
+  }
+}
